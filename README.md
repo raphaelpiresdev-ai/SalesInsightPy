@@ -1,4 +1,4 @@
-# SrealesInsight PY
+# SalesInsight PY
 ## Sobre o projeto
 O SalesInsight PY é um pipeline completo de análise de dados de vendas desenvolvido em Python.
 O sistema lê, limpa, transforma e visualiza um dataset de vendas, gerando métricas,
@@ -70,3 +70,6 @@ o servidor processaria e retornaria os dados — seguindo a arquitetura cliente-
 Bibliotecas como `requests` permitem consumir essas APIs diretamente no Python.
 ## Vídeo de demonstração
 [Inserir link do Google Drive ou YouTube aqui]
+
+## Autores
+Projeto desenvolvido para a disciplina de IA para Analise Preditiva por Luis Gustavo da Silva, Acacia Rosar e Raphael Antonio dos Santos Pires.
