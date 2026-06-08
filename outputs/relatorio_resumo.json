@@ -1,0 +1,74 @@
+[
+    {
+        "mes": 1,
+        "receita_total": 47169.34,
+        "quantidade": 45,
+        "n_vendas": 9
+    },
+    {
+        "mes": 2,
+        "receita_total": 69968.85,
+        "quantidade": 91,
+        "n_vendas": 15
+    },
+    {
+        "mes": 3,
+        "receita_total": 124532.2,
+        "quantidade": 88,
+        "n_vendas": 17
+    },
+    {
+        "mes": 4,
+        "receita_total": 103611.52,
+        "quantidade": 75,
+        "n_vendas": 15
+    },
+    {
+        "mes": 5,
+        "receita_total": 106602.03,
+        "quantidade": 89,
+        "n_vendas": 14
+    },
+    {
+        "mes": 6,
+        "receita_total": 117334.85,
+        "quantidade": 75,
+        "n_vendas": 15
+    },
+    {
+        "mes": 7,
+        "receita_total": 110935.66,
+        "quantidade": 99,
+        "n_vendas": 19
+    },
+    {
+        "mes": 8,
+        "receita_total": 140320.55,
+        "quantidade": 81,
+        "n_vendas": 13
+    },
+    {
+        "mes": 9,
+        "receita_total": 90627.26,
+        "quantidade": 63,
+        "n_vendas": 10
+    },
+    {
+        "mes": 10,
+        "receita_total": 137350.13,
+        "quantidade": 118,
+        "n_vendas": 20
+    },
+    {
+        "mes": 11,
+        "receita_total": 69554.97,
+        "quantidade": 65,
+        "n_vendas": 12
+    },
+    {
+        "mes": 12,
+        "receita_total": 115925.56,
+        "quantidade": 105,
+        "n_vendas": 21
+    }
+]
